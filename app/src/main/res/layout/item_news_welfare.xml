@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:layout_height="wrap_content">
+
+
+
+
+    <ImageView
+        android:id="@+id/m_item_welfare_image"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@drawable/bg_image"
+        android:layout_height="wrap_content" />
+
+
+</FrameLayout>
